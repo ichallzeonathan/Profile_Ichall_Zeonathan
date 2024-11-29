@@ -32,7 +32,7 @@ Saya berencana:
 ## 📫 Hubungi Saya
 Jika Anda ingin berkolaborasi atau sekadar berbicara tentang teknologi, jangan ragu untuk menghubungi saya:
 - **Email**: ichallzeonathan@gmail.com
-- **NO WhatsApp**: .[NO](https://wa.me/6285219341964)
+- **NO WhatsApp**: .[Click Here](https://wa.me/6285219341964)
 - **GitHub**: [Ichall](https://github.com/ichallzeonathan/Ichall)
 
 ---
