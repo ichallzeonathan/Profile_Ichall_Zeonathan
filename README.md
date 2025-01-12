@@ -2,11 +2,6 @@
 
 Selamat datang di repositori saya! Saya adalah seorang pengembang **script pemula** yang sedang belajar dan mengembangkan kemampuan di dunia pemrograman.
 
-## 📚 Tentang Saya
-- 🏫 Saat ini, saya bersekolah di **[SMKNU GEMBONG PATI JAWA TENGAH]**.
-- 💻 Saya tertarik dengan pengembangan bot, pemrograman web, dan jaringan.
-- 🎯 Tujuan saya adalah menguasai berbagai bahasa pemrograman dan berkontribusi pada proyek open-source.
-
 ## 💼 Proyek Saya
 Berikut beberapa proyek yang sedang atau telah saya kerjakan:
 - **Bot WhatsApp Sederhana**: Bot yang dapat merespons pesan otomatis.
